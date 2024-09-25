@@ -5,7 +5,7 @@ pyyaml==5.1
 streamlit
 
 opencv-python-headless
-Pillow
+Pillow>=9.0.0
 
 numpy
 matplotlib
