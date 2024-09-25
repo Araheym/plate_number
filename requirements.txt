@@ -9,5 +9,6 @@ Pillow
 
 numpy
 matplotlib
-git+https://github.com/facebookresearch/detectron2.git
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.9/index.html
+detectron2
 
